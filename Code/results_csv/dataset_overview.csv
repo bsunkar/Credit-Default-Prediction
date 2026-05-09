@@ -1,0 +1,8 @@
+Metric,Value
+Total Samples,30000
+Default Rate (%),22.12
+Features Count,23
+Training Samples,21000
+Test Samples,9000
+Default Rate in Train (%),22.12
+Default Rate in Test (%),22.12
