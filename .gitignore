@@ -13,3 +13,4 @@ Code/venv/
 .idea/
 .vscode/
 .credit_default_analysis.py
+Code/credit_default_analysis_copy.py
