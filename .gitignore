@@ -12,3 +12,4 @@ Code/venv/
 .env
 .idea/
 .vscode/
+.credit_default_analysis.py
